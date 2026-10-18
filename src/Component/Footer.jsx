@@ -6,7 +6,7 @@ function Footer() {
     <>
     <div className='sonuf' >
         
-        <p>© 2017–2030 Company Akshatha products Ltd, Inc.</p>
+        <p>© 2020–2030 Company Jitendra products Ltd, Inc.</p>
      
       </div>
     </>
